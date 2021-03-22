@@ -7,3 +7,4 @@ Rabu : Senam
 Kamis : Lari pagi
 Jumat : Senam
         pukul : 07.30 pagi
+Sabtu : Jalan-jalan di taman
