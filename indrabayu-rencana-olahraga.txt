@@ -1,6 +1,9 @@
 ----- Rencana Olahraga Indra Bayu -----
 Senin : Senam
+        pukul : 06.00 pagi
 Selasa : Lari sore
 Rabu : Senam
+        pukul : 17.00 sore
 Kamis : Lari pagi
 Jumat : Senam
+        pukul : 07.30 pagi
