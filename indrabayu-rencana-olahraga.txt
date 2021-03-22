@@ -11,3 +11,4 @@ Jumat : Senam
         pukul : 07.30 pagi
 Sabtu : Jalan-jalan di taman
 Minggu : Nonton TV
+        - Tidur
