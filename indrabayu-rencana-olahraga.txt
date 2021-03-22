@@ -2,9 +2,13 @@
 Senin : Senam
         pukul : 06.00 pagi
 Selasa : Lari sore
+        pukul : 20.00 malam
 Rabu : Senam
         pukul : 17.00 sore
 Kamis : Lari pagi
+        pukul : 04.00 pagi
 Jumat : Senam
         pukul : 07.30 pagi
 Sabtu : Jalan-jalan di taman
+Minggu : Nonton TV
+        - Tidur
