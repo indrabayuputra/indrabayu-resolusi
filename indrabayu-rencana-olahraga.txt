@@ -5,7 +5,9 @@ Selasa : Lari sore
 Rabu : Senam
         pukul : 17.00 sore
 Kamis : Lari pagi
+        pukul : 04.00 pagi
 Jumat : Senam
         pukul : 07.30 pagi
 Sabtu : Jalan-jalan di taman
+Minggu : Nonton TV
         - Tidur
